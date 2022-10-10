@@ -647,6 +647,10 @@ textarea {
     font-size: 40px;
   }
 
+  .container .frame {
+    width: 60%;
+  }
+
   .about-me p {
     width: 340px;
   }
